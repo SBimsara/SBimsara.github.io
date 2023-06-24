@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9badce2.css",
+    "main.js": "/static/js/main.df285d91.js",
+    "static/js/787.b7af92ad.chunk.js": "/static/js/787.b7af92ad.chunk.js",
+    "static/media/Sithira_Bimsara.pdf": "/static/media/Sithira_Bimsara.7e7245d2bc11c0076d87.pdf",
+    "static/media/quizz.jpg": "/static/media/quizz.a8433fd8af05991ef655.jpg",
+    "static/media/me.png": "/static/media/me.10c3460117360f6d7e51.png",
+    "static/media/can_crusher.jpeg": "/static/media/can_crusher.7867d6715947ef584db8.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.a9badce2.css.map": "/static/css/main.a9badce2.css.map",
+    "main.df285d91.js.map": "/static/js/main.df285d91.js.map",
+    "787.b7af92ad.chunk.js.map": "/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9badce2.css",
+    "static/js/main.df285d91.js"
+  ]
+}
